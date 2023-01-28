@@ -1,6 +1,6 @@
 #include "chat.h"
 #include "iostream"
-//
+
 Chat::Chat() {
 
     data_count = 0;
